@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tigertawu1
+- 👋 Hi, I’m Syed Tawakkal
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on projects
